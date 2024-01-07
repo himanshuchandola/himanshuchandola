@@ -49,32 +49,14 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 ## 🤓 Projects & GitHub
 
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github.com/himanshuchandola/github-stats/blob/master/generated/overview.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github.com/himanshuchandola/github-stats/blob/master/generated/languages.svg" />
-</details>
 
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=himanshuchandola&margin-w=15&no-frame=true&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" />
-  </p>
-</details>
-
-<details>
   <summary><b>📈 GitHub Streaks</b></summary>
   <br />
   <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchandola&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=himanshuchandola&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
   </p>
-</details>
+
 
 <div align="center">
   
