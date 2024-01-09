@@ -24,6 +24,7 @@ I am also an open-source enthusiast and maintainer.
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </p>
 </div>
 
+----
 
 ## ⚡ Stuff I Know
 
@@ -42,13 +43,9 @@ I learned a lot from the open-source community and I love how collaboration and 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-## 🤔 Stuff To Explore
 
 
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
+----
 
 ## 🤓 Github Streaks
 
