@@ -1,4 +1,4 @@
-<align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Hey+I'm+Himanshu+Chandola;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)</>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Hey+I'm+Himanshu+Chandola;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a Himanshu Chandola 👨🏻‍💻 currently working as Software Developer 🎓 who loves to create for the web 🌐.</h3>
 
 <p align="center">
