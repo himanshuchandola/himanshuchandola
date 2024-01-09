@@ -11,8 +11,9 @@
 <p align="center"><img src="https://api.visitorbadge.io/api/visitors?path=himanshuchandola&label=Visitor%20Count&countColor=%23263759"</p>
 
 ----
-
-<p align="center">Experienced React Developer with over 2 years of expertise in crafting accessible user interfaces and implementing responsive components using React JS.
+<div align="center">
+    <h2>🚀 About Me</h2>
+   <p align="center">Experienced React Developer with over 2 years of expertise in crafting accessible user interfaces and implementing responsive components using React JS.
 
  Proficient in enhancing user experience through creative UI design and meticulous optimization.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
 
@@ -21,6 +22,8 @@ I love to explore new technologies and leverage them to solve real-life problems
 I am also an open-source enthusiast and maintainer. 
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </p>
+</div>
+
 
 ## ⚡ Stuff I Know
 
