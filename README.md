@@ -55,6 +55,10 @@ I learned a lot from the open-source community and I love how collaboration and 
   </p>
 
 <div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanshuchandola&theme=radical)](https://himanshuchandola.fyi)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&locale=en&theme=radical" alt="sulagna-dutta-roy" /></p>
   
 ### Show some ❤️ by starring some of the repositories!
 
