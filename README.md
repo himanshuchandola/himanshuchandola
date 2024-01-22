@@ -50,10 +50,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 ## 🤓 Github Streaks
 
 <br />
-  <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuchandola&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
-  </p>
-
+ 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanshuchandola&theme=radical)](https://himanshuchandola.fyi)
