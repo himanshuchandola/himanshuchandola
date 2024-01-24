@@ -8,15 +8,10 @@
   <a href="https://twitter.com/himanshuistaken" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://dev.to/himanshuchandola" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
-<p align="center"><img src="https://api.visitorbadge.io/api/visitors?path=himanshuchandola&label=Visitor%20Count&countColor=%23263759"</p>
-
-[![wakatime](https://wakatime.com/badge/user/4a55d62c-c22c-4674-abb2-f3837f77a846.svg)](https://wakatime.com/@4a55d62c-c22c-4674-abb2-f3837f77a846)
-
-<p align="center">
-  <a href="https://wakatime.com/@4a55d62c-c22c-4674-abb2-f3837f77a846">
+<p align="center"><img src="https://api.visitorbadge.io/api/visitors?path=himanshuchandola&label=Visitor%20Count&countColor=%23263759"> <a href="https://wakatime.com/@4a55d62c-c22c-4674-abb2-f3837f77a846">
     <img src="https://wakatime.com/badge/user/4a55d62c-c22c-4674-abb2-f3837f77a846.svg" alt="wakatime">
-  </a>
-</p>
+  </a></p>
+
 
 
 ----
