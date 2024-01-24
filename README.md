@@ -9,7 +9,7 @@
   <a href="https://dev.to/himanshuchandola" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 <p align="center"><img src="https://api.visitorbadge.io/api/visitors?path=himanshuchandola&label=Visitor%20Count&countColor=%23263759"</p>
-<p align="center">[![wakatime](https://wakatime.com/badge/user/4a55d62c-c22c-4674-abb2-f3837f77a846.svg)](https://wakatime.com/@4a55d62c-c22c-4674-abb2-f3837f77a846)</p>
+[![wakatime](https://wakatime.com/badge/user/4a55d62c-c22c-4674-abb2-f3837f77a846.svg)](https://wakatime.com/@4a55d62c-c22c-4674-abb2-f3837f77a846)
 ----
 <div align="center">
     <h2>🚀 About Me</h2>
