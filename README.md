@@ -12,6 +12,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/4a55d62c-c22c-4674-abb2-f3837f77a846.svg)](https://wakatime.com/@4a55d62c-c22c-4674-abb2-f3837f77a846)
 
+<p align="center">
+  <a href="https://wakatime.com/@4a55d62c-c22c-4674-abb2-f3837f77a846">
+    <img src="https://wakatime.com/badge/user/4a55d62c-c22c-4674-abb2-f3837f77a846.svg" alt="wakatime">
+  </a>
+</p>
+
+
 ----
 <div align="center">
     <h2>🚀 About Me</h2>
