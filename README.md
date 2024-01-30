@@ -63,6 +63,9 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
     <a href="https://github.com/himanshuchandola">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchandola&layout=compact&theme=vue&langs_count=8" />
     </a>
+     <a href="https://github.com/himanshuchandola">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshuchandola&theme=radical" />
+    </a>
 </p>
 
 <div align="center" style="overflow: hidden;justify-content:space-around;">
