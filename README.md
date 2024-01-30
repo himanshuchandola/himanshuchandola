@@ -51,7 +51,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 <p align="center">
     <a href="https://github.com/himanshuchandola">
-        <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&include_all_commits=true&theme=vue&count_private=true&line_height=28.8" alt="Himanshu's github stats" width="450px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="Himanshu's github stats" width="450px"/>
     </a>
     <a href="https://github.com/himanshuchandola">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchandola&layout=compact&theme=vue&langs_count=8" />
