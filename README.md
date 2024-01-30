@@ -53,8 +53,31 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 ----
 
-![Metrics](https://raw.githubusercontent.com/himanshuchandola/himanshuchandola/main/github-metrics.svg)
-  
+##
+___NOTE:___ _Top languages shown below does not indicate my skill level or something like that, like its title - "Most Used Languages", it's just a github metric of which languages I have the most code on Github._
+
+<p align="center">
+    <a href="https://github.com/himanshuchandola">
+        <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&include_all_commits=true&theme=vue&count_private=true&line_height=28.8" alt="Himanshu's github stats" width="450px"/>
+    </a>
+    <a href="https://github.com/himanshuchandola">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchandola&layout=compact&theme=vue&langs_count=8" />
+    </a>
+</p>
+
+<div align="center" style="overflow: hidden;justify-content:space-around;">
+  <img src="github-metrics.svg" width="400"/>
+  <img src="metrics.plugin.calendar.svg" width="380">
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### Summary
+![trophy](https://github-profile-trophy.vercel.app/?username=himanshuchandola&margin-w=4&no-frame=true&column=7)
+
+*That's all, thanks and have a nice day!*
+
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
