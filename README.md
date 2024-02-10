@@ -42,8 +42,11 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 
+----
+&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee.
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/himanshuchandola" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
+<br>
 ----
 
 ##
@@ -65,6 +68,10 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
   <img src="github-metrics.svg" width="400"/>
   <img src="metrics.plugin.calendar.svg" width="380">
 </div>
+
+
+
+## 🕑 Wakatime Stats:
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-810119%20lines%20of%20code-blue)
