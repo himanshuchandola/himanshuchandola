@@ -105,19 +105,18 @@ Sunday       9 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 39 mins        ████████████████████████░   97.18% 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/02/2024
+ Last Updated on 17/02/2024
 <!--END_SECTION:waka-->
 
 ### Summary
