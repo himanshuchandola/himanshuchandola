@@ -65,7 +65,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 </p>
 
 <div align="center" style="overflow: hidden;justify-content:space-around;">
-  <img src="github-metrics.svg" width="400"/>
+  <img src="metrics.plugin.topics.mastered.svg" width="400"/>
   <img src="metrics.plugin.calendar.svg" width="380">
 </div>
 
