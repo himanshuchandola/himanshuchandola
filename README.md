@@ -102,19 +102,18 @@ Sunday       40 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     8 mins              █████████████████████░░░░   85.55% 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   14.45%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/12/2025
+ Last Updated on 27/12/2025
 <!--END_SECTION:waka-->
 
 ### Summary
