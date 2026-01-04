@@ -22,7 +22,7 @@ Apart from the pinned repositories, I have built:
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
-| **[himanshuchandola-cli](https://github.com/himanshuchandola/himanshuchandola-cli)** | Interactive Personal Portfolio in your terminal. | TypeScript, Node.js, tsup |
+| **[himanshu-cli](https://github.com/himanshuchandola/himanshuchandola-cli)** | Interactive Personal Portfolio in your terminal. | TypeScript, Node.js, tsup |
 | **[Reqly](https://github.com/himanshuchandola/Reqly)** | A powerful mobile API testing client built with React Native and Expo. | React Native, TypeScript, Expo |
 | **[Swagger React JS](https://github.com/himanshuchandola/swagger-reactjs)** | Demo merging multiple Swagger JSONs into one interface. | React, JavaScript, Swagger |
 
