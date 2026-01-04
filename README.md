@@ -56,15 +56,7 @@ Explore my thoughts at [himanshuchandola.dev](https://himanshuchandola.dev/), an
 **Let's code, connect, and create awesome things together!**
 
 <p align="center">
-  <a href="https://github.com/himanshuchandola">
-    <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  </a>
-  <a href="https://github.com/himanshuchandola">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchandola&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  </a>
-  <a href="https://github.com/himanshuchandola">
-    <img src ="https://github-readme-streak-stats.herokuapp.com?user=himanshuchandola&theme=darcula&hide_border=true&background=FFFFFF00">
-  </a>
+  <a href="https://github.com/himanshuchandola"><img src="https://github-readme-streak-stats-seven-red.vercel.app?user=himanshuchandola&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 <br>
